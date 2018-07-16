@@ -1,0 +1,4 @@
+<!--pages/donation.wxml-->
+<view>
+    <navigator url="/pages/donatenow/donatenow">我要捐助</navigator>
+</view>

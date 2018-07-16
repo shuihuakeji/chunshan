@@ -1,0 +1,49 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/activity/activity",
+    "pages/donation/donation",
+    "pages/personal/personal",
+    "pages/createactivity/createactivity",
+    "pages/activitydetail/activitydetail",
+    "pages/donatenow/donatenow"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#a9b7b7",
+    "selectedColor": "#11cd6e",
+    "borderStyle": "white",
+    "list": [
+      {
+        "selectedIconPath": "images/01.png",
+        "iconPath": "images/01.png",
+        "pagePath": "pages/index/index",
+        "text": "走进纯山"
+      },
+      {
+        "selectedIconPath": "images/01.png",
+        "iconPath": "images/01.png",
+        "pagePath": "pages/activity/activity",
+        "text": "志愿活动"
+      },
+      {
+        "selectedIconPath": "images/01.png",
+        "iconPath": "images/01.png",
+        "pagePath": "pages/donation/donation",
+        "text": "爱心捐助"
+      },
+      {
+        "selectedIconPath": "images/01.png",
+        "iconPath": "images/01.png",
+        "pagePath": "pages/personal/personal",
+        "text": "个人中心"
+      }
+    ]
+  }
+}

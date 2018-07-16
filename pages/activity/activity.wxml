@@ -1,0 +1,4 @@
+<!--pages/activity.wxml-->
+<!-- 仅管理员可看到该入口 -->
+<navigator url="/pages/createactivity/createactivity">创建活动</navigator>
+<navigator url="/pages/activitydetail/activitydetail?activityId=111">活动详情</navigator>
